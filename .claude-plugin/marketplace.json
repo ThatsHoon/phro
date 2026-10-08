@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "phro",
+  "description": "thatshoon's Claude Code plugins.",
+  "owner": {
+    "name": "thatshoon"
+  },
+  "plugins": [
+    {
+      "name": "phro-interactive-demo",
+      "description": "Turn an app brief (features, flows, state rules) into a working, presentation-ready demo simulator.",
+      "source": {
+        "source": "github",
+        "repo": "ThatsHoon/phro-interactive-demo"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/ThatsHoon/phro-interactive-demo"
+    }
+  ]
+}
