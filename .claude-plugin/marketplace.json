@@ -10,8 +10,8 @@
       "name": "phro-interactive-demo",
       "description": "Turn an app brief (features, flows, state rules) into a working, presentation-ready demo simulator.",
       "source": {
-        "source": "github",
-        "repo": "ThatsHoon/phro-interactive-demo"
+        "source": "url",
+        "url": "https://github.com/ThatsHoon/phro-interactive-demo.git"
       },
       "category": "productivity",
       "homepage": "https://github.com/ThatsHoon/phro-interactive-demo"

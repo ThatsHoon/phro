@@ -19,13 +19,13 @@ claude plugin install <플러그인 이름>@phro
 
 ## 플러그인 추가하기
 
-`.claude-plugin/marketplace.json`의 `plugins`에 항목을 하나 더합니다. 플러그인 저장소에는 `.claude-plugin/plugin.json`만 있으면 됩니다.
+`.claude-plugin/marketplace.json`의 `plugins`에 항목을 하나 더합니다. 플러그인 저장소에는 `.claude-plugin/plugin.json`만 있으면 됩니다. `github` 소스는 SSH로 복제해서 SSH 키가 없는 사용자는 설치에 실패하므로 HTTPS `url` 소스를 씁니다.
 
 ```json
 {
   "name": "phro-새-플러그인",
   "description": "한 줄 설명",
-  "source": { "source": "github", "repo": "ThatsHoon/새-플러그인-저장소" }
+  "source": { "source": "url", "url": "https://github.com/ThatsHoon/새-플러그인-저장소.git" }
 }
 ```
 
