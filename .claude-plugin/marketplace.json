@@ -15,6 +15,26 @@
       },
       "category": "productivity",
       "homepage": "https://github.com/ThatsHoon/phro-interactive-demo"
+    },
+    {
+      "name": "phro-prompt-nudge",
+      "description": "Watches your prompts and the conversation, then suggests a sharper next question above the prompt box.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ThatsHoon/phro-prompt-nudge.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/ThatsHoon/phro-prompt-nudge"
+    },
+    {
+      "name": "phro-pm-terms",
+      "description": "Collects IT terms and acronyms a PM should know from Claude's answers into a checklist pane; checked items move to an archive.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ThatsHoon/phro-pm-terms.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/ThatsHoon/phro-pm-terms"
     }
   ]
 }
