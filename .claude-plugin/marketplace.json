@@ -27,8 +27,8 @@
       "homepage": "https://github.com/ThatsHoon/phro-prompt-nudge"
     },
     {
-      "name": "phro-pm-terms",
-      "description": "Collects IT terms and acronyms a PM should know from Claude's answers into a checklist pane; checked items move to an archive.",
+      "name": "phro-term-board",
+      "description": "Collects AI and IT terms, concepts and technologies from Claude's answers into a term board pane; checked items move to an archive.",
       "source": {
         "source": "url",
         "url": "https://github.com/ThatsHoon/phro-pm-terms.git"
