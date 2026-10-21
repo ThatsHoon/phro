@@ -18,6 +18,7 @@ claude plugin install <플러그인 이름>@phro
 | [phro-interactive-demo](https://github.com/ThatsHoon/phro-interactive-demo) | 앱 기획서(기능·플로우·상태 규칙)를 발표용으로 동작하는 데모 시뮬레이터로 만듭니다. | `claude plugin install phro-interactive-demo@phro` |
 | [phro-prompt-nudge](https://github.com/ThatsHoon/phro-prompt-nudge) | 입력과 대화 맥락을 관찰해 더 나은 다음 질문·프롬프트를 입력창 위에 제안합니다. | `claude plugin install phro-prompt-nudge@phro` |
 | [phro-term-board](https://github.com/ThatsHoon/phro-pm-terms) | Claude 답변에서 AI·IT 전반의 용어·개념·기술을 뽑아 용어 보드로 모으고, 체크하면 보관함으로 옮깁니다. (옛 이름 phro-pm-terms) | `claude plugin install phro-term-board@phro` |
+| [phro-trend](https://github.com/ThatsHoon/phro-trend) | Hugging Face 트렌딩 AI 논문 3편을 기존 방식, 문제, 개선, 활용 구조, 예시, 다이어그램을 담은 한국어 실무 설명자료로 만듭니다. | `claude plugin install phro-trend@phro` |
 
 ## 플러그인 추가하기
 
