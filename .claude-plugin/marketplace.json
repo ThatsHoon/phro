@@ -38,7 +38,7 @@
     },
     {
       "name": "phro-trend",
-      "description": "Turns trending AI papers into practical Korean briefs: what was done before, what broke, what the paper changes, and where it fits in your stack.",
+      "description": "Turns trending AI papers and a week of AI news into practical Korean briefs: what changed, how far to trust it, and where it fits in your stack.",
       "source": {
         "source": "url",
         "url": "https://github.com/ThatsHoon/phro-trend.git"
