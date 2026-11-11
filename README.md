@@ -15,6 +15,7 @@ claude plugin install <플러그인 이름>@phro
 
 | 플러그인 | 설명 | 설치 |
 |---|---|---|
+| [phro-humanize](https://github.com/ThatsHoon/phro-humanize) | AI가 쓴 한글 텍스트에서 AI 티 패턴(10개 카테고리 85종)을 찾아 사람이 쓴 글처럼 윤문합니다. [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai)(MIT) 기반에 토큰 효율화를 더했습니다. | `claude plugin install phro-humanize@phro` |
 | [phro-interactive-demo](https://github.com/ThatsHoon/phro-interactive-demo) | 앱 기획서(기능·플로우·상태 규칙)를 발표용으로 동작하는 데모 시뮬레이터로 만듭니다. | `claude plugin install phro-interactive-demo@phro` |
 | [phro-prompt-nudge](https://github.com/ThatsHoon/phro-prompt-nudge) | 입력과 대화 맥락을 관찰해 더 나은 다음 질문·프롬프트를 입력창 위에 제안합니다. | `claude plugin install phro-prompt-nudge@phro` |
 | [phro-term-board](https://github.com/ThatsHoon/phro-pm-terms) | Claude 답변에서 AI·IT 전반의 용어·개념·기술을 뽑아 용어 보드로 모으고, 체크하면 보관함으로 옮깁니다. (옛 이름 phro-pm-terms) | `claude plugin install phro-term-board@phro` |

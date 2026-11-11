@@ -7,6 +7,16 @@
   },
   "plugins": [
     {
+      "name": "phro-humanize",
+      "description": "Rewrites Korean text that reads as AI-written so it reads as written by a person: finds 85 AI-tell patterns in 10 categories and rewrites them. Based on epoko77-ai/im-not-ai (MIT).",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ThatsHoon/phro-humanize.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/ThatsHoon/phro-humanize"
+    },
+    {
       "name": "phro-interactive-demo",
       "description": "Turn an app brief (features, flows, state rules) into a working, presentation-ready demo simulator.",
       "source": {
