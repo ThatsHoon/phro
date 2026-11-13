@@ -27,6 +27,16 @@
       "homepage": "https://github.com/ThatsHoon/phro-interactive-demo"
     },
     {
+      "name": "phro-learning",
+      "description": "Learn the AI and IT terms you meet while working with Claude: term-board collects them from Claude's answers into a desktop pane, and learning-board turns them into a study page with fields, levels, a prerequisite graph and spaced review.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ThatsHoon/phro-learning.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/ThatsHoon/phro-learning"
+    },
+    {
       "name": "phro-prompt-nudge",
       "description": "Watches your prompts and the conversation, then suggests a sharper next question above the prompt box.",
       "source": {
@@ -35,16 +45,6 @@
       },
       "category": "productivity",
       "homepage": "https://github.com/ThatsHoon/phro-prompt-nudge"
-    },
-    {
-      "name": "phro-term-board",
-      "description": "Collects AI and IT terms, concepts and technologies from Claude's answers into a term board pane; checked items move to an archive.",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/ThatsHoon/phro-pm-terms.git"
-      },
-      "category": "productivity",
-      "homepage": "https://github.com/ThatsHoon/phro-pm-terms"
     },
     {
       "name": "phro-trend",
