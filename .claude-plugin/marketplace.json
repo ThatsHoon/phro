@@ -28,7 +28,7 @@
     },
     {
       "name": "phro-learning",
-      "description": "Learn the AI and IT terms you meet while working with Claude: term-board collects them from Claude's answers into a desktop pane, and learning-board turns them into a study page with fields, levels, a prerequisite graph and spaced review.",
+      "description": "Collect the AI and IT terms you meet while working with Claude: term-board picks them from Claude's answers into a desktop pane with a short meaning and an example for each.",
       "source": {
         "source": "url",
         "url": "https://github.com/ThatsHoon/phro-learning.git"
