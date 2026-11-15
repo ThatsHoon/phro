@@ -18,7 +18,7 @@ claude plugin install <플러그인 이름>@phro
 | [phro-humanize](https://github.com/ThatsHoon/phro-humanize) | AI가 쓴 한글 텍스트에서 AI 티 패턴(10개 카테고리 85종)을 찾아 사람이 쓴 글처럼 윤문합니다. [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai)(MIT) 기반에 토큰 효율화를 더했습니다. | `claude plugin install phro-humanize@phro` |
 | [phro-interactive-demo](https://github.com/ThatsHoon/phro-interactive-demo) | 앱 기획서(기능·플로우·상태 규칙)를 발표용으로 동작하는 데모 시뮬레이터로 만듭니다. | `claude plugin install phro-interactive-demo@phro` |
 | [phro-prompt-nudge](https://github.com/ThatsHoon/phro-prompt-nudge) | 입력과 대화 맥락을 관찰해 더 나은 다음 질문·프롬프트를 입력창 위에 제안합니다. | `claude plugin install phro-prompt-nudge@phro` |
-| [phro-learning](https://github.com/ThatsHoon/phro-learning) | Claude 답변에서 AI·IT 용어를 term-board 패널로 자동 수집하고, 원할 때 learning-board 학습 페이지(분야·난이도·선행 관계 그래프·간격 반복 복습)로 만듭니다. | `claude plugin install phro-learning@phro` |
+| [phro-learn](https://github.com/ThatsHoon/phro-learn) | Claude 답변에서 AI·IT 용어를 데스크톱 패널로 자동 수집하고, phrolearn.com에서 하루 10분씩 익힙니다(0.15.0에서 phro-learning에서 이름이 바뀜). | `claude plugin install phro-learn@phro` |
 | [phro-trend](https://github.com/ThatsHoon/phro-trend) | Hugging Face 트렌딩 AI 논문 3편을 기존 방식, 문제, 개선, 활용 구조, 예시, 다이어그램을 담은 한국어 실무 설명자료로 만듭니다. | `claude plugin install phro-trend@phro` |
 | [phro-project](https://github.com/ThatsHoon/phro-project) | 긴 프로젝트가 방향을 잃지 않게 합니다. 플러그인 설계·점검, 핵심 목표·아키텍처 문서 유지, 폴더 재구성, 소유자 결정 대기열을 다룹니다. | `claude plugin install phro-project@phro` |
 

@@ -27,14 +27,14 @@
       "homepage": "https://github.com/ThatsHoon/phro-interactive-demo"
     },
     {
-      "name": "phro-learning",
-      "description": "Collect the AI and IT terms you meet while working with Claude: term-board picks them from Claude's answers into a desktop pane with a short meaning and an example for each.",
+      "name": "phro-learn",
+      "description": "Collect the AI and IT terms you meet while working with Claude into a desktop pane, each with a short meaning and the sentence it came from, and learn them on phrolearn.com.",
       "source": {
         "source": "url",
-        "url": "https://github.com/ThatsHoon/phro-learning.git"
+        "url": "https://github.com/ThatsHoon/phro-learn.git"
       },
       "category": "productivity",
-      "homepage": "https://github.com/ThatsHoon/phro-learning"
+      "homepage": "https://github.com/ThatsHoon/phro-learn"
     },
     {
       "name": "phro-project",
