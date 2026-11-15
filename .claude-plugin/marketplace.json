@@ -28,7 +28,7 @@
     },
     {
       "name": "phro-learn",
-      "description": "Collect the AI and IT terms you meet while working with Claude into a desktop pane, each with a short meaning and the sentence it came from, and learn them on phrolearn.com.",
+      "description": "Collect the AI and IT terms you meet while working with Claude into a desktop pane, each with a short meaning and the sentence it came from. It can connect to phrolearn.com, a separate web service for studying them.",
       "source": {
         "source": "url",
         "url": "https://github.com/ThatsHoon/phro-learn.git"
