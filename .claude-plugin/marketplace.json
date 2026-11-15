@@ -37,6 +37,16 @@
       "homepage": "https://github.com/ThatsHoon/phro-learning"
     },
     {
+      "name": "phro-project",
+      "description": "Keeps a long project on course: designs and audits its plugins, holds core goal and architecture documents for every session, restructures folders, and keeps a queue of the owner's decisions.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ThatsHoon/phro-project.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/ThatsHoon/phro-project"
+    },
+    {
       "name": "phro-prompt-nudge",
       "description": "Watches your prompts and the conversation, then suggests a sharper next question above the prompt box.",
       "source": {
