@@ -21,6 +21,7 @@ claude plugin install <플러그인 이름>@phro
 | [phro-learn](https://github.com/ThatsHoon/phro-learn) | Claude 답변에서 AI·IT 용어를 데스크톱 패널로 자동 수집합니다. 학습용 웹 대시보드 phrolearn.com은 별도 서비스로, 연결하면 모은 용어가 그곳으로 갑니다(0.15.0에서 phro-learning에서 이름이 바뀜). | `claude plugin install phro-learn@phro` |
 | [phro-trend](https://github.com/ThatsHoon/phro-trend) | Hugging Face 트렌딩 AI 논문 3편을 기존 방식, 문제, 개선, 활용 구조, 예시, 다이어그램을 담은 한국어 실무 설명자료로 만듭니다. | `claude plugin install phro-trend@phro` |
 | [phro-project](https://github.com/ThatsHoon/phro-project) | 긴 프로젝트가 방향을 잃지 않게 합니다. 플러그인 설계·점검, 핵심 목표·아키텍처 문서 유지, 폴더 재구성, 소유자 결정 대기열을 다룹니다. | `claude plugin install phro-project@phro` |
+| [phro-icon](https://github.com/ThatsHoon/phro-icon) | 서비스가 무엇을 위한 것인지부터 정리해 로고와 아이콘 세트를 SVG로 설계합니다. 심벌, 앱 아이콘, 파비콘, 워드마크, PNG·ico, 미리보기 페이지를 프로젝트 안의 생성기가 그립니다. | `claude plugin install phro-icon@phro` |
 
 ## 플러그인 추가하기
 

@@ -17,6 +17,16 @@
       "homepage": "https://github.com/ThatsHoon/phro-humanize"
     },
     {
+      "name": "phro-icon",
+      "description": "Designs a service's logo and icon system from what the service means, drawn as SVG by a small generator kept in the project: symbol, app icon, favicon, wordmark, PNG and .ico exports, and a preview page.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ThatsHoon/phro-icon.git"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/ThatsHoon/phro-icon"
+    },
+    {
       "name": "phro-interactive-demo",
       "description": "Turn an app brief (features, flows, state rules) into a working, presentation-ready demo simulator.",
       "source": {
